@@ -3,8 +3,8 @@ RailsAdmin.config do |c|
     list do
       field :email
     end
-#    edit do
-#      field :email
-#    end
+    edit do
+      field :email
+    end
   end
 end
